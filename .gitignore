@@ -1,0 +1,13 @@
+bin/*
+.settings/*
+.project
+.metadata
+.classpath
+.loadpath
+.buildpath
+*.launch
+*.jar
+*.class
+*.tmp
+*.swp
+*.bak
